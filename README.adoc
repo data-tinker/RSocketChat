@@ -1,2 +1,2 @@
-Chat application builded using Kotlin, Spring Webflux and RSocket.
+Chat application builded using Kotlin, Spring Webflux and RSocket.  
 Tutorial: https://spring.io/guides/tutorials/spring-webflux-kotlin-rsocket/
